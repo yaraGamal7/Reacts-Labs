@@ -1,0 +1,28 @@
+{
+  "watches": [
+    {
+      "id": "1",
+      "brand": "Brand A",
+      "model": "Model X",
+      "price": 120
+    },
+    {
+      "id": "3",
+      "brand": "Brand C",
+      "model": "Model Y",
+      "price": 90
+    },
+    {
+      "id": "69c5",
+      "brand": "Brand S5555",
+      "model": "Model Z",
+      "price": 20
+    },
+    {
+      "id": "479f",
+      "brand": "Brand Mariam",
+      "model": "Model W",
+      "price": 30
+    }
+  ]
+}
